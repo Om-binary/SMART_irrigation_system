@@ -16,16 +16,14 @@ real soil conditions, saving water and improving yield.
 2. Microcontroller compares reading with set threshold
 3. If soil is dry → motor/pump activates automatically
 4. If moisture is sufficient → pump stays off
-5. LCD displays real-time status
 
 ## 🛠️ Components Used
 | Component | Purpose |
 |-----------|---------|
-| Arduino UNO | Main microcontroller |
+| ESP 8266 | Main microcontroller |
 | Soil Moisture Sensor | Reads moisture level in soil |
 | Relay Module | Controls water pump |
 | Water Pump / Motor | Pumps water to crops |
-| LCD Display | Shows moisture level & pump status |
 | Power Supply | Powers the system |
 
 ## 👨‍💻 My Role
@@ -41,7 +39,6 @@ real soil conditions, saving water and improving yield.
 
 ## 📁 Repository Contents
 - `/code` — Arduino source code
-- `/circuit` — Circuit diagram
 - `/images` — Project photos
 - `/report` — Project report PDF
 
@@ -51,5 +48,5 @@ real soil conditions, saving water and improving yield.
 - Sensor calibration & testing
 
 ## 📬 Connect With Me
-- LinkedIn: [Om Dhane](your-linkedin-url)
-- GitHub: [omdhane](your-github-url)
+- LinkedIn: [Om Dhane](https://www.linkedin.com/in/om-dhane-8mar2006)
+- GitHub: [omdhane](https://github.com/Om-binary)
